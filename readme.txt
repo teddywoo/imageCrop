@@ -1,0 +1,1 @@
+把 lib\as3corelib.swc 放到 Flash 安装目录下 \Common\Configuration\ActionScript 3.0\libs
